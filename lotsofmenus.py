@@ -1,3 +1,7 @@
+########################################
+# Run this script to populate database #
+########################################
+
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
