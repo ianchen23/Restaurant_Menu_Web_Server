@@ -1,3 +1,7 @@
+##########################################
+# Web server without using any framework #
+##########################################
+
 from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
 import cgi
 
